@@ -40,4 +40,5 @@ Inside your project directory, create two files: app.js and utils.js.
 **Cloning this project**
 1. go to you terminal.
 2. and type below command to clone it to your system.
+
    git clone https://github.com/manpreet621/Lab2-JS-frameworks.git
