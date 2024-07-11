@@ -6,8 +6,10 @@
 **Create Project Directory:**
 1. Open Your Terminal
 2. Create new directory for your project and navigate into it.
-   mkdir Lab2-JS-frameworks
-   cd Lab2-JS-frameworks
+
+    mkdir Lab2-JS-frameworks
+
+    cd Lab2-JS-frameworks
 **Install Dependencies:**
 1. For this project, there are no additional dependencies to install.
 
