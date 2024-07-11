@@ -10,6 +10,8 @@
     mkdir Lab2-JS-frameworks
 
     cd Lab2-JS-frameworks
+
+
 **Install Dependencies:**
 1. For this project, there are no additional dependencies to install.
 
