@@ -38,6 +38,7 @@ Inside your project directory, create two files: app.js and utils.js.
 **Run the Application:**
 1. In your terminal, navigate to your project directory.
 2. Run the application using Node.js:
+
    node app.js
 
 
