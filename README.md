@@ -12,6 +12,7 @@
 1. For this project, there are no additional dependencies to install.
 
 **Create the Required Files:**
+
 Inside your project directory, create two files: app.js and utils.js.
 
 **Write Code for utils.js:**
